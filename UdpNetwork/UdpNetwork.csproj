@@ -149,5 +149,8 @@
   <ItemGroup>
     <Content Include="Resources\pikachu.ico" />
   </ItemGroup>
+  <ItemGroup>
+    <Folder Include="showPic\" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
